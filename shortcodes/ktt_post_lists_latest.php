@@ -1,6 +1,6 @@
 <?php
 
-function ktt_sh_latest($atts)
+function ktt_post_lists_latest($atts)
 {
     ob_start();
 
