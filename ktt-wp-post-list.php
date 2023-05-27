@@ -3,7 +3,7 @@
     Plugin Name: KTT WP Post Lists
     Plugin URI: https://github.com/KeesCBakker/ktt-wp-post-lists
     Description: This plugin adds shortcodes to displays posts.
-    Version: 0.1
+    Version: 0.2
     Author: Kees C. Bakker
     Author URI: https://keestalkstech.com/
     License: GPL2
