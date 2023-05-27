@@ -15,7 +15,7 @@ if (!class_exists('KttPostListsUpdater')) {
 }
 
 $updater = new KttPostListsUpdater(__FILE__);
-$updater->set_username('keescbakker');
+$updater->set_username('KeesCBakker');
 $updater->set_repository('ktt-wp-post-lists');
 $updater->initialize();
 
