@@ -21,4 +21,4 @@ $updater->initialize();
 
 
 /* REGISTER THE SHORT CODES */
-require plugin_dir_path(__FILE__) . 'shortcodes/ktt_sh_latest.php';
+require plugin_dir_path(__FILE__) . 'shortcodes/ktt_post_lists_latest.php';
