@@ -6,7 +6,7 @@
  * @package       KTTPL
  * @author        Kees . Bakker
  * @license       gplv2
- * @version       0.5
+ * @version       0.6
  *
  * @wordpress-plugin
  * Plugin Name:   KeesTalksTech Post Lists
