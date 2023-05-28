@@ -6,22 +6,20 @@
  * @package       KTTPL
  * @author        Kees . Bakker
  * @license       gplv2
- * @version       0.6
+ * @version       0.7
  *
  * @wordpress-plugin
  * Plugin Name:   KeesTalksTech Post Lists
  * Plugin URI:    https://github.com/KeesCBakker/ktt-wp-post-lists
  * Description:   A plugin to show a list of posts in WordPress.
- * Version:       0.5
+ * Version:       0.7
  * Author:        Kees C. Bakker
  * Author URI:    https://keestalkstech.com/
  * Text Domain:   ktt-wp-post-lists
  * Domain Path:   /languages
- * License:       GPLv2
- * License URI:   https://www.gnu.org/licenses/gpl-2.0.html
+ * License:       MIT
+ * License URI:   https://github.com/KeesCBakker/ktt-wp-post-lists/LICENSE
  *
- * You should have received a copy of the GNU General Public License
- * along with KeesTalksTech Post Lists. If not, see <https://www.gnu.org/licenses/gpl-2.0.html/>.
  */
 
 // Exit if accessed directly.
